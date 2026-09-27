@@ -7,6 +7,7 @@
 - Resources
   - [https://www.typewolf.com/resources](https://www.typewolf.com/resources)
 - Type Knowledge
+  - [Web Type](https://prowebtype.com) – Donny Truong
   - [Understanding Typography](https://m2.material.io/design/typography/understanding-typography.html#type-properties) – _Material Design_
   - [https://typefacts.com/artikel/anfuehrungszeichen](https://typefacts.com/artikel/anfuehrungszeichen)
 
